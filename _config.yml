@@ -1,8 +1,11 @@
 title: "Foundations of Data Science"
 description: Foundations of Data Science SP24 @ CCNY 
-theme: just-the-docs
-
 url: https://CSc10800.github.io/CSc10800
+repository: CSc10800/CSc10800
+
+logo: "assets/img/data-vector-free-icon-set-38.ico"
+
+permalink: pretty
 
 search_enabled: true
 search:
@@ -34,6 +37,10 @@ aux_links:
     - "//github.com/CSc10800/CSc10800.github.io"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 heading_anchors: true
+
+#Back to the top link
+back_to_top: true
+back_to_top_text: "Back to top"
