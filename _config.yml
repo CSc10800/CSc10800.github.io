@@ -4,8 +4,6 @@ theme: just-the-docs
 url: https://CSc10800.github.io/CSc10800
 repository: CSc10800/CSc10800
 
-logo: "assets/img/data-vector-free-icon-set-38.ico"
-
 permalink: pretty
 
 search_enabled: true
