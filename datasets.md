@@ -1,6 +1,16 @@
 ---
 title: Datasets
 layout: default
-nav_order: 05
+nav_order: 04
 ---
 
+# Datasets [^1]
+For ease of retrieval, please make sure to save the datasets in the same folder as your Jupyter Notebook (.ipynb) file.
+
+- [Bellevue Almhouse Dataset](assets/datasets/bellevue_almshouse_modified.csv)
+- [Refugee by Arrival Dataset](assets/datasets/refugee-arrivals-by-destination.csv)
+- [Trans-Atlantic Slave Trade of Americas Dataset](assets/datasets/Trans-Atlantic-Slave-Trade_Americas.csv)
+- [U.S. Inaugural Addresses Dataset](assets/datasets/US_Inaugural_Addresses.zip)
+- [Trump Twitter Archive](assets/datasets/Trump-Tweets_2009-2021.csv)
+
+[^1]: These datasets are retrieved from Melanie Walsh's [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html).

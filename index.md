@@ -19,5 +19,5 @@ This course does <strong>not</strong> satisfy degree requirements for Computer S
 
 ## Required Materials
 
-All required reading materials are provided on the [Schedule and Course Materials](/syllabus) page and datasets are provided on the [Datasets](/datasets) page.   
+All required reading materials are provided on the [Schedule](/syllabus) page and datasets are provided on the [Datasets](/datasets) page.   
 

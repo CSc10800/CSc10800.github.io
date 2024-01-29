@@ -1,6 +1,6 @@
 // add padding for header
 #top {
-    margin-top: 0.5rem;
+    margin-top: 1rem;
 }
 
 #main-header {
@@ -8,13 +8,13 @@
 }
 
 .site-header {
-    padding-bottom: 0.5rem;
+    padding-bottom: 1rem;
 }
 
-.table-wrapper {
+.table-wrapper2 {
     display: block;
-    width: 100%;
-    max-width: 100%;
+    width: 115%;
+    max-width: 115%;
     margin-bottom: $sp-5;
     overflow-x: auto;
     border-radius: $border-radius;
@@ -31,8 +31,8 @@ table {
   
 th,
 td {
-@include fs-3;
-
+    @include fs-3;
+    min-width: 0px;
     padding: $sp-2 $sp-3;
     background-color: $table-background-color;
     border-bottom: $border rgba($border-color, 0.5);
