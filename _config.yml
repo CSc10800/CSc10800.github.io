@@ -31,7 +31,7 @@ search:
 
 aux_links:
   "CSc10800 on GitHub":
-    - "//github.com/dyoong/CSc10800"
+    - "//github.com/CSc10800/CSc10800.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
