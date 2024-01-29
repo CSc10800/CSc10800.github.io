@@ -5,10 +5,8 @@ nav_order: 02
 ---
 
 # Schedule
-Materials are linked directly on the schedule.   
-  
-If you have any issues accessing the materials, please let me know asap. If you are having trouble viewing the syllabus online, you can also choose to [download the syllabus](#download-syllabus).
-
+Materials are linked directly. If you have any issues accessing the materials, please let me know asap. If you are having trouble viewing the syllabus online, you can also choose to [download the syllabus](#download-syllabus).   
+<br>
 
 |   | Date   | Topics      | Readings          | Technical Readings          | Due by Class |
 |--:|-------:|:-------|:-----------|:---------------------|:-------------|
@@ -46,6 +44,8 @@ If you have any issues accessing the materials, please let me know asap. If you 
 |   | 05/14 (Tue) | Buffer day |   |   |   |
 |   | 05/21 (Thu) | Finals. Last day for all submissions. |   |   | Semester Reflection |
 
+
+-----
 
 ## Download syllabus
 - [Tues/Thurs: 2 - 3:15pm](assets/pdf/CSc10800_21864.pdf) 
