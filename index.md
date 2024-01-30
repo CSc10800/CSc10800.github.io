@@ -6,7 +6,7 @@ nav_order: 01
 
 # CSc 10800: Foundations of Data Science
 
-Instructor: Di Yoong   
+Instructor: Di Yoong (they/them)    
 Office Hours: Thurs 3:15 - 5pm or [by appointment](https://appt.link/oh-diyoong)  
  
 ## Course Description 
