@@ -9,7 +9,7 @@ nav_order: 01
 Instructor: Di Yoong  
 Email:  
 Office: NAC 8/202D (North Academic Center)  
-Office Hours: 3:15 - 5pm or [by appointment](https://appt.link/oh-diyoong)  
+Office Hours: Thurs 3:15 - 5pm or [by appointment](https://appt.link/oh-diyoong)  
  
 ## Course Description 
 
