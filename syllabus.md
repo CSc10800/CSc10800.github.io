@@ -12,7 +12,7 @@ Materials are linked directly. If you have any issues accessing the materials, p
 |--:|-------:|:-------|:-----------|:---------------------|:-------------|
 | 1 | 01/25 (Thu) |Introductions  |      |     |                |
 |   | 01/30 (Tue) | What is data science? | Data 8: [What is data science (Chapter 1.1 and 1.2)](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br> Ted Underwood: [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) | DHRI: [Installing GitBash](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/git.md)|   |
-| 2 | 02/01 (Thu) | Command Line   |   | Melanie Walsh: [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html) | Download [GitBash]((https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/git.md)) for Windows user |
+| 2 | 02/01 (Thu) | Command Line   |   | Melanie Walsh: [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html) | Download [GitBash](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/git.md) for Windows user |
 |   | 02/06 (Tue) | Whose data science?  | Data Feminism: [Introduction: Why data science needs feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6) <br><br> [Feminist data manifest-no](https://www.manifestno.com/home)| DHRI: [Installing Python (and Anaconda)](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/python.md)|
 | 3 | 02/08 (Thu) | Stages of data, Jupyter notebook and Interacting with Python | DHRI: [Data literacies 01 - 03](https://github.com/DHRI-Curriculum/data-literacies/blob/v2.0/sections/01-data-is-foundational.md) | Melanie Walsh: [How to use Jupyter notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html); [Anatomy of a python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) <br><br> DHRI: [Interacting with Python](https://github.com/DHRI-Curriculum/python/blob/v2.0/sections/01-interacting-with-python.md)| Download Anaconda |
 |   | 02/13 (Tue) | Data types, Comparisons, and Variables |   | Melanie Walsh: [Python data types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html); [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html) <br><br> Data 8: [Comparisons](https://inferentialthinking.com/chapters/04/3/Comparison.html) | |
@@ -48,5 +48,5 @@ Materials are linked directly. If you have any issues accessing the materials, p
 -----
 
 ## Download syllabus
-- [Tues/Thurs: 2 - 3:15pm](assets/pdf/CSc10800_21864.pdf) 
-- [Tues/Thurs: 5 - 6:15pm](assets/pdf/CSc10800_21866.pdf)
+- [Tues/Thurs: 2 - 3:15pm](/assets/pdf/CSc10800_21864.pdf) 
+- [Tues/Thurs: 5 - 6:15pm](/assets/pdf/CSc10800_21866.pdf)
