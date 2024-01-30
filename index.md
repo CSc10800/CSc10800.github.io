@@ -6,9 +6,7 @@ nav_order: 01
 
 # CSc 10800: Foundations of Data Science
 
-Instructor: Di Yoong  
-Email:  
-Office: NAC 8/202D (North Academic Center)  
+Instructor: Di Yoong   
 Office Hours: Thurs 3:15 - 5pm or [by appointment](https://appt.link/oh-diyoong)  
  
 ## Course Description 
