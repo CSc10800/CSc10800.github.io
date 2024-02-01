@@ -1,7 +1,7 @@
 ---
 title: CCNY Resources
 layout: default
-nav_order: 01
+nav_order: 02
 parent: Resources
 ---
 
