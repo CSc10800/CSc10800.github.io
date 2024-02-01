@@ -7,4 +7,4 @@ parent: Resources
 
 # Course slides
 
-- [Practicing the command line](/assets/pdf/commandline.pdf])
+- [Practicing the command line](/assets/pdf/commandline.pdf)
