@@ -8,9 +8,9 @@ parent: Resources
 # Additional resources
 
 ## Command line
-- [Intro to the command line - Navigation](https://www.youtube.com/watch?v=TmaYW51GP_E) [YouTube Video]
-- [Intro to the command line - Exploring text data](https://www.youtube.com/watch?v=BMcem8xFSMQ)
-- [Intro to the command line - Creating files and folders](https://www.youtube.com/watch?v=InYDsoPX81I)
+- [YouTube Video] [Intro to the command line - Navigation](https://www.youtube.com/watch?v=TmaYW51GP_E) 
+- [YouTube Video] [Intro to the command line - Exploring text data](https://www.youtube.com/watch?v=BMcem8xFSMQ)
+- [YouTube Video] [Intro to the command line - Creating files and folders](https://www.youtube.com/watch?v=InYDsoPX81I) 
 - [Cheat sheet for bash terminal](/assets/pdf/BiteSizeCommandLine.pdf)
 
 ## Thinking about data; Working with data
