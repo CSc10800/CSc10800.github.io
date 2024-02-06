@@ -8,3 +8,4 @@ parent: Resources
 # Course slides
 
 - [Practicing the command line](/assets/pdf/commandline.pdf)
+- [Whose data science?](/assets/pdf/0206whosedatascience.pdf)
