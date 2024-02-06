@@ -7,6 +7,12 @@ parent: Resources
 
 # Additional resources
 
+## Command line
+- [Intro to the command line - Navigation](https://www.youtube.com/watch?v=TmaYW51GP_E) [YouTube Video]
+- [Intro to the command line - Exploring text data](https://www.youtube.com/watch?v=BMcem8xFSMQ)
+- [Intro to the command line - Creating files and folders](https://www.youtube.com/watch?v=InYDsoPX81I)
+- [Cheat sheet for bash terminal](/assets/pdf/BiteSizeCommandLine.pdf)
+
 ## Thinking about data; Working with data
 - Gil Press. (2013). [A Very Short History of Data Science.](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/?sh=6f4ef4855cfc)
 - Christof Schöch. (2013). [Big? Smart? Clean? Messy? Data in the Humanities.](https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
