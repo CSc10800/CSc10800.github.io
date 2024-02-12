@@ -7,12 +7,13 @@ has_toc: false
 ---
 
 # Activity Instructions
-- Please make sure the file name for your submissions **includes your first and last name**: e.g.  DiYoong_Activity01.ipynb
+- Please make sure the file name for your submissions **includes your initial of your firstname and last name**: e.g.  DYoong_Activity0_.ipynb
 
 ## Activity 1: Data types, variables, and string methods
 Due: 02/27 (Tue) by class time
-- Instructions (to come)
+- [Instructions](/assets/activities/activity_1.ipynb)
 - Submission format: .ipynb (Jupyter Notebook file)
+- Submission link: [2 - 3:15pm](https://www.dropbox.com/request/B8K17Ccy7NFGmsGUM87J); [4 - 5:15pm](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
 
 ## Activity 2: Foundations of python 
 Due: 03/12 (Tue) by class time
