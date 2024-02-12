@@ -12,8 +12,10 @@ has_toc: false
 ## Activity 1: Data types, variables, and string methods
 Due: 02/27 (Tue) by class time
 - [Instructions](/assets/activities/activity_1.ipynb)
+- Submission link: 
+    - [2 - 3:15pm](https://www.dropbox.com/request/B8K17Ccy7NFGmsGUM87J);   
+    - [4 - 5:15pm](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
 - Submission format: .ipynb (Jupyter Notebook file)
-- Submission link: [2 - 3:15pm](https://www.dropbox.com/request/B8K17Ccy7NFGmsGUM87J); [4 - 5:15pm](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
 
 ## Activity 2: Foundations of python 
 Due: 03/12 (Tue) by class time
