@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Notebooks
 layout: default
 nav_order: 02
 parent: Resources
