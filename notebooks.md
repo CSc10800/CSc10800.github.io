@@ -7,4 +7,4 @@ parent: Resources
 
 - [Sample python script](/assets/notebooks/sample_pythonScript.ipynb)
 - [In-class activity: Data types and variables](/assets/notebooks/datatypes.ipynb)
-- [In-class activity: Data types and variables](/assets/notebooks/Practice_YellowWallpaper.ipynb)
+- [In-class activity: Practicing string methods](/assets/notebooks/Practice_YellowWallpaper.ipynb)
