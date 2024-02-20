@@ -11,3 +11,4 @@ parent: Resources
 - [Whose data science?](/assets/pdf/0206whosedatascience.pdf)
 - [Stages of Data](/assets/pdf/0208stagesofdata.pdf)
 - [Interacting with Python](/assets/pdf/0215interactingwithPython.pdf)
+- [Strings in Python](/assets/pdf/0220stringsinPython.pdf)
