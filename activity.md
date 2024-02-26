@@ -10,7 +10,7 @@ has_toc: false
 - Please make sure the file name for your submissions **includes your initial of your firstname and last name**: e.g.  DYoong_activity_1.ipynb
 
 ## Activity 1: Data types, variables, and string methods
-Due: 02/27 (Tue) by class time
+Due: 03/05 (Tue) by class time
 - [Instructions: Activity 1](/assets/activities/activity_1.ipynb)
 - Submission: 
     - [2 - 3:15pm](https://www.dropbox.com/request/B8K17Ccy7NFGmsGUM87J)   
