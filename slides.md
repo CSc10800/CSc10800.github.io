@@ -13,3 +13,4 @@ parent: Resources
 - [Interacting with Python](/assets/pdf/0215interactingwithPython.pdf)
 - [Strings in Python](/assets/pdf/0220stringsinPython.pdf)
 - [Reviewing Variables and Built-in Functions](/assets/pdf/0227ReviewingVariablesandbuiltinFunction.pdf)
+- [Lists and For Loops](/assets/pdf/0229Strings_Lists_LoopsinPython.pdf)
