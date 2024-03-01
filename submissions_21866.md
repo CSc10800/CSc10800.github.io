@@ -9,7 +9,7 @@ parent: Activity
 Please submit your files through Dropbox. Your file name should **includes your first and last name**: e.g.  DiYoong_Activity01.ipynb
 
 ## [Activity 1: Data types, variables, and string methods](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
-Due: 02/27 (Tue) by class time
+Due: 03/05 (Tue) by class time
 
 ## [Activity 2: Foundations of python](https://www.dropbox.com/request/lGCFA6ZA9htDBVPQmLtJ) 
 Due: 03/12 (Tue) by class time
