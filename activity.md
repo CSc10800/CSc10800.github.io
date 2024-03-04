@@ -14,7 +14,7 @@ Due: 03/05 (Tue) by class time
 - [Instructions: Activity 1](/assets/activities/activity_1.ipynb)
 - Submission: 
     - [2 - 3:15pm](https://www.dropbox.com/request/B8K17Ccy7NFGmsGUM87J)   
-    - [4 - 5:15pm](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
+    - [5 - 6:15pm](https://www.dropbox.com/request/LhGAgpC0wz3TnaNI2pqL)
 - Format: .ipynb (Jupyter Notebook file)
 
 ## Activity 2: Foundations of python 
