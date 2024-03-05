@@ -8,7 +8,7 @@ nav_order: 01
 
 Instructor: Di Yoong (they/them)    
 Office Hours: Thurs 3:15 - 5pm or [by appointment](https://appt.link/oh-diyoong)   
-Location: NAC 8/202D 
+Location: NAC 8/207 
  
 ## Course Description 
 
