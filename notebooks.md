@@ -9,3 +9,4 @@ parent: Resources
 - [In-class activity: Data types and variables](/assets/notebooks/datatypes.ipynb)
 - [In-class activity: Practicing string methods](/assets/notebooks/Practice_YellowWallpaper.ipynb)
 - [In-class activity: For loops](/assets/notebooks/for_loops.ipynb)
+- [In-class activity: Functions](/assets/notebooks/functions.ipynb)
