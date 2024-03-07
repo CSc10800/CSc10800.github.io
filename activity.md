@@ -19,7 +19,10 @@ Due: 03/05 (Tue) by class time
 
 ## Activity 2: Foundations of python 
 Due: 03/12 (Tue) by class time
-- Instructions: Activity 2
+- [Instructions: Activity 2](/assets/activities/activity_2.ipynb)
+- Submission: 
+    - [2 - 3:15pm](https://www.dropbox.com/request/aKigL0SE7WnGIFaOH2tA)   
+    - [5 - 6:15pm](https://www.dropbox.com/request/lGCFA6ZA9htDBVPQmLtJ)
 - Format: .ipynb (Jupyter Notebook file)
 
 ## Activity 3: Preparing the _Trans-Atlantic Slave Trade of Americas_ dataset
@@ -32,7 +35,7 @@ Due: 04/16 (Tue) by class time
 - Instructions: Activity 4
 - Format: .ipynb (Jupyter Notebook file)
 
-## Activity 5: Term Frequency-Inverse Document Frequency
+## Activity 5: Text analysis and sentiment analysis
 Due: 05/09 (Tue) by class time
 - Instructions: Activity 5 
 - Format: .ipynb (Jupyter Notebook file)

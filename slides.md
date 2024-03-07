@@ -15,3 +15,4 @@ parent: Resources
 - [Reviewing Variables and Built-in Functions](/assets/pdf/0227ReviewingVariablesandbuiltinFunction.pdf)
 - [Lists and For Loops](/assets/pdf/0229Strings_Lists_LoopsinPython.pdf)
 - [For Loops](/assets/pdf/0305ForLoops.pdf)
+- [Functions](/assets/pdf/0307DefiningFunctions.pdf)
