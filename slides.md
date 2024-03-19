@@ -17,3 +17,4 @@ parent: Resources
 - [For Loops](/assets/pdf/0305ForLoops.pdf)
 - [Functions](/assets/pdf/0307DefiningFunctions.pdf)
 - [Data biographies](/assets/pdf/0314Activity2_databiographies.pdf)
+- [Pandas I](/assets/pdf/0319_pandas1.pdf)
