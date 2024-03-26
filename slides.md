@@ -18,3 +18,4 @@ parent: Resources
 - [Functions](/assets/pdf/0307DefiningFunctions.pdf)
 - [Data biographies](/assets/pdf/0314Activity2_databiographies.pdf)
 - [Pandas I](/assets/pdf/0319_pandas1.pdf)
+- [Pandas II](/assets/pdf/0326_pandas2.pdf)
