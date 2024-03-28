@@ -10,4 +10,4 @@ parent: Resources
 - [In-class activity: Practicing string methods](/assets/notebooks/Practice_YellowWallpaper.ipynb)
 - [In-class activity: For loops](/assets/notebooks/for_loops.ipynb)
 - [In-class activity: Functions](/assets/notebooks/functions.ipynb)
-- [In-class activity: Pandas](/assets/notebooks/0326_pandas.ipynb) (updated: 03/26)
+- [In-class activity: Pandas](/assets/notebooks/0328_pandas.ipynb) (updated: 03/28)
