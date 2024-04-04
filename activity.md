@@ -26,8 +26,8 @@ Due: 03/19 (Tue) by class time
 - Format: .ipynb (Jupyter Notebook file)
 
 ## Activity 3: Preparing the _Trans-Atlantic Slave Trade of Americas_ dataset
-Due: 04/02 (Tue) by class time
-- Instructions: Activity 3 
+Due: 04/11 (Thu) by class time
+- [Instructions: Activity 3](/assets/activities/activity_3.ipynb)
 - Format: .ipynb (Jupyter Notebook file)
 
 ## Activity 4: Exploring the _Trans-Atlantic Slave Trade of Americas_ dataset

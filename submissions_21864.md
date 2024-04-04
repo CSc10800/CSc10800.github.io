@@ -15,7 +15,7 @@ Due: 03/05 (Tue) by class time
 Due: 03/19 (Tue) by class time
 
 ## [Activity 3: Preparing the _Trans-Atlantic Slave Trade of Americas_ dataset](https://www.dropbox.com/request/QbGspad7LT8pqrYv4kDc)
-Due: 04/02 (Tue) by class time
+Due: 04/11 (Tue) by class time
 
 ## [Activity 4: Exploring the _Trans-Atlantic Slave Trade of Americas_ dataset](https://www.dropbox.com/request/Sf8TDHWQUe8lhotDZeoS)
 Due: 04/18 (Thu) by class time
