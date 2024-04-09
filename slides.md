@@ -21,3 +21,4 @@ parent: Resources
 - [Pandas II](/assets/pdf/0326_pandas2.pdf)
 - [Pandas practice: Refugee arrivals dataset](/assets/pdf/PracticeRefugeeArrivalsdataset.pdf)
 - [Summary statistics](/assets/pdf/0404SummarizingData.pdf)
+- [Summarizing data and spread](/assets/pdf/0409_SummarizingDataandSpread.pdf)
