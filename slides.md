@@ -22,3 +22,4 @@ parent: Resources
 - [Pandas practice: Refugee arrivals dataset](/assets/pdf/PracticeRefugeeArrivalsdataset.pdf)
 - [Summary statistics](/assets/pdf/0404SummarizingData.pdf)
 - [Summarizing data and spread](/assets/pdf/0409_SummarizingDataandSpread.pdf)
+- [Understanding distribution; causation and correlations](/assets/pdf/0411_Distribution_causality.pdf)

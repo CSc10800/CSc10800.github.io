@@ -11,3 +11,4 @@ parent: Resources
 - [In-class activity: For loops](/assets/notebooks/for_loops.ipynb)
 - [In-class activity: Functions](/assets/notebooks/functions.ipynb)
 - [In-class activity: Pandas](/assets/notebooks/0328_pandas.ipynb) (updated: 03/28)
+- [Assessing a model](/assets/notebooks/AssessingaModel.ipynb)
