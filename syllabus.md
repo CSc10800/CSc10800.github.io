@@ -36,8 +36,8 @@ Updated: 04/08/2024
 |   | 04/09 (Tue) | Understanding the spread and sampling |  John Canning: [Statistics for humanities, pp. 23-36](/assets/pdf/StatisticsforHumanities_2336.pdf) (pdf) <br><br> Data 8: [Assessing a model](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html) |   |
 | 12| 04/11 (Thu) | Understanding relationships  |Data 8: [Causality and experiments](https://inferentialthinking.com/chapters/02/causality-and-experiments.html) <br><br> John Canning: [Statistics for humanities, pp. 75-85](/assets/pdf/StatisticsforHumanities_7585.pdf) (pdf) | The PyCoach: [A Simple Guide to Linear Regression using Python](/assets/pdf/GuidetoLinearRegression.pdf) (pdf)   |  [Activity 3](/assets/activities/activity_3.ipynb)  |
 |   | 04/16 (Tue) | Sentiment Analysis |   | Melanie Walsh: [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)  |   |
-| 13| 04/18 (Thu) | Sentiment Analysis |   | Melanie Walsh: [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html) | Activity 4 |
-|   | 04/23 (Tue) | **No Class. Spring break.** |   |   |   |
+| 13| 04/18 (Thu) | Sentiment Analysis |   | Melanie Walsh: [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html) |  |
+|   | 04/23 (Tue) | **No Class. Spring break.** |   |   |  [Activity 4](/assets/activities/activity4_mini.pdf) |
 | 14| 04/25 (Thu) | **No Class. Spring break.** |   |   |   |
 |   | 04/30 (Tue) | **No Class. Spring break.** |   |   |   |
 | 15| 05/02 (Thu) |  Text analysis: Beginning with NLTK | Lauren Klein: [Distant Reading After Moretti](https://shc.stanford.edu/arcade/interventions/distant-reading-after-moretti) | DHRI: [Text analysis (Sections 01 to 08)](https://github.com/DHRI-Curriculum/text-analysis/blob/v2.0/sections/01-text-as-data.md)  |    |

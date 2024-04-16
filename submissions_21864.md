@@ -17,10 +17,10 @@ Due: 03/19 (Tue) by class time
 ## [Activity 3: Preparing the _Trans-Atlantic Slave Trade of Americas_ dataset](https://www.dropbox.com/request/QbGspad7LT8pqrYv4kDc)
 Due: 04/11 (Tue) by class time
 
-## [Activity 4: Exploring the _Trans-Atlantic Slave Trade of Americas_ dataset](https://www.dropbox.com/request/Sf8TDHWQUe8lhotDZeoS)
-Due: 04/18 (Thu) by class time
+## [Activity 4 (mini): Writing a for loop tutorial ](https://www.dropbox.com/request/Sf8TDHWQUe8lhotDZeoS)
+Due: 04/23 (Tue) by midnight
 
-## [Activity 5: Term Frequency-Inverse Document Frequency](https://www.dropbox.com/request/uORuGB11JVR8peqzT9lh)
+## [Activity 5: Sentiment analysis](https://www.dropbox.com/request/uORuGB11JVR8peqzT9lh)
 Due: 05/09 (Thu) by class time
 
 ## [Semester Reflection](https://www.dropbox.com/request/dw5gsed8XTseXn24RdAa)
