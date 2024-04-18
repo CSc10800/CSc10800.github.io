@@ -23,4 +23,4 @@ parent: Resources
 - [Summary statistics](/assets/pdf/0404SummarizingData.pdf)
 - [Summarizing data and spread](/assets/pdf/0409_SummarizingDataandSpread.pdf)
 - [Understanding distribution; causation and correlations](/assets/pdf/0411_Distribution_causality.pdf)
-- [Sentiment analysis](/assets/pdf/0416_Sentiment_Analysis.pdf)
+- [Sentiment analysis](/assets/pdf/0416_8_Sentiment_Analysis.pdf) (updated: 04/17)
