@@ -12,3 +12,5 @@ parent: Resources
 - [In-class activity: Functions](/assets/notebooks/functions.ipynb)
 - [In-class activity: Pandas](/assets/notebooks/0328_pandas.ipynb) (updated: 03/28)
 - [Assessing a model](/assets/notebooks/AssessingaModel.ipynb)
+- [Sentiment Analysis: Single sentence and list](/assets/notebooks/0416_sentiment_analysis.ipynb)
+- [Sentiment Analysis: Dataset](/assets/notebooks/0418_sentiment_covid19.ipynb)
