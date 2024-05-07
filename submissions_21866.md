@@ -20,7 +20,7 @@ Due: 04/11 (Tue) by class time
 ## [Activity 4 (mini): Writing a _for loop_ tutorial](https://www.dropbox.com/request/BKSr7PLYbLDCoJDBXiwi)
 Due: 04/23 (Thu) by midnight
 
-## [Activity 5: Sentiment analysis](https://www.dropbox.com/request/fOPx8k3oeIZRq4IHlgfX)
+## [Activity 5: Data Visualization](https://www.dropbox.com/request/fOPx8k3oeIZRq4IHlgfX)
 Due: 05/21 (Tue) by class time
 
 ## [Semester Reflection](https://www.dropbox.com/request/jnGOmYbE9hNFvrX7MNDs)
