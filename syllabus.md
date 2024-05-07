@@ -44,7 +44,7 @@ Updated: 04/08/2024
 |   | 05/07 (Tue) |  Data storytelling (Online) |   | Jackie Mansky: [W.E.B. Du Bois' visionary infographics come together for the first time in full color](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/) <br><br> Ben Schmidt: [Gendered language in teacher reviews](http://benschmidt.org/profGender/); [FAQ](http://benschmidt.org/2015/02/06/rate-my-professor/); Nick DeSantis: [How reviews on 'Rate My Professors' describe men and women differently](/assets/pdf/chronicle_genderedreview.pdf) (pdf) <br><br> Hannah Anderson and Matt Daniels: [Film dialogue from 2,000 sceenplays, broken down by gender and age](https://pudding.cool/2017/03/film-dialogue/)  |   |
 | 16| 05/09 (Thu) | Activity 5 & Consultation day (Online)  |  |   |   |
 |   | 05/14 (Tue) | **Class cancelled.** |   |   |   |
-|   | 05/21 (Tue) | Last day for all submissions. |   |   | Activity 5 & Semester Reflection |
+|   | 05/21 (Tue) | Last day for all submissions. |   |   | [Activity 5](/assets/activities/activity5.pdf) & [Semester Reflection](/assets/activities/SemesterReflection.pdf) |
 
 
 -----

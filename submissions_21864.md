@@ -21,7 +21,7 @@ Due: 04/11 (Tue) by class time
 Due: 04/23 (Tue) by midnight
 
 ## [Activity 5: Sentiment analysis](https://www.dropbox.com/request/uORuGB11JVR8peqzT9lh)
-Due: 05/09 (Thu) by class time
+Due: 05/21 (Tue) by class time
 
 ## [Semester Reflection](https://www.dropbox.com/request/dw5gsed8XTseXn24RdAa)
-Due: 05/21 (Thu) by class time
+Due: 05/21 (Tue) by class time

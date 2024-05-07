@@ -41,12 +41,18 @@ Due: 04/23 (Tue) by midnight
     - [5 - 6:15pm](https://www.dropbox.com/request/BKSr7PLYbLDCoJDBXiwi)
 - Format: .doc, .docx, .pdf, .ipynb
 
-## Activity 5: Sentiment analysis
-Due: 05/09 (Thu) by class time
-- Instructions: Activity 5 
-- Format: .ipynb (Jupyter Notebook file)
+## Activity 5: Data visualization
+Due: 05/21 (Tue) by class time
+- [Instructions: Activity 5](/assets/activities/activity5.pdf)
+- Submission: 
+    - [2 - 3:15pm](https://www.dropbox.com/request/uORuGB11JVR8peqzT9lh)   
+    - [5 - 6:15pm](https://www.dropbox.com/request/fOPx8k3oeIZRq4IHlgfX)
+- Format: .doc, .docx, .pdf, .ipynb
 
 ## Semester Reflection
 Due: 05/21 (Thu) by class time
-- Instructions: Semester reflection
+- [Instructions: Semester reflection](/assets/activities/SemesterReflection.pdf)
+- Submission: 
+    - [2 - 3:15pm](https://www.dropbox.com/request/dw5gsed8XTseXn24RdAa)   
+    - [5 - 6:15pm](https://www.dropbox.com/request/jnGOmYbE9hNFvrX7MNDs)
 - Format: .pdf, .doc, or .docx
